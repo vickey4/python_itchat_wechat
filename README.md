@@ -28,4 +28,4 @@ https://github.com/gzm1997/wxImage
 ##wechat_fri_sexual.py微信好友男女性别比例
 
 ##tuling——robot.py 图灵机器人自动回复功能
-http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/demo.png?imageView/2/h/400/
+![](http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/demo.png?imageView/2/h/400/)
