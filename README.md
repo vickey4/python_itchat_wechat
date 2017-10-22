@@ -5,7 +5,7 @@
 - pip install pillow
 - pip install wordcloud
 
-#本文资料来源
+# 本文资料来源
 itchat教程
 http://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/#0
 
@@ -15,12 +15,12 @@ http://www.bubuko.com/infodetail-2104779.html
 itchat+pillow实现微信好友头像爬取和拼接（github地址）
 https://github.com/gzm1997/wxImage
 
-#实现效果
+# 实现效果
 ##wxImage.py  拼接微信好友头像
 ![](https://github.com/vickey4/python_itchat_wechat/raw/master/user1.jpg)  
-##注意：
+## 注意：
 
-'''python
+```python
 for i in pics:
 	try:
 		#打开图片
@@ -48,15 +48,15 @@ if len(toImage.split()) == 4:
     img.save('user.jpg')
 else:
 	toImage.save('user.jpg')
-'''
+```
 
-##auto_reply.py 自动回复
+## auto_reply.py 自动回复
 
-##signature_cloud.py  好友个性签名词云（词云那里可以换成小黄人图片(指定图片)）
+## signature_cloud.py  好友个性签名词云（词云那里可以换成小黄人图片(指定图片)）
 ![](https://github.com/vickey4/python_itchat_wechat/raw/master/wechat_cloud.png)  
 ![](https://github.com/vickey4/python_itchat_wechat/raw/master/wechat_cloud1.png)  
 
-##wechat_fri_sexual.py微信好友男女性别比例
+## wechat_fri_sexual.py微信好友男女性别比例
 
-##tuling——robot.py 图灵机器人自动回复功能
+## tuling——robot.py 图灵机器人自动回复功能
 ![](http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/demo.png?imageView/2/h/400/)
