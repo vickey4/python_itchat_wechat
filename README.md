@@ -22,8 +22,8 @@ https://github.com/gzm1997/wxImage
 ##auto_reply.py 自动回复
 
 ##signature_cloud.py  好友个性签名词云（词云那里可以换成小黄人图片(指定图片)）
-![](https://github.com/vickey4/python_itchat_wechat/raw/master/wechat_cloud.jpg)  
-![](https://github.com/vickey4/python_itchat_wechat/raw/master/wechat_cloud1.jpg)  
+![](https://github.com/vickey4/python_itchat_wechat/raw/master/wechat_cloud.png)  
+![](https://github.com/vickey4/python_itchat_wechat/raw/master/wechat_cloud1.png)  
 
 ##wechat_fri_sexual.py微信好友男女性别比例
 
